@@ -1,0 +1,4 @@
+baseURL = "https://baseballcardsqeet.vercel.app"
+languageCode = "en-us"
+title = "Baseball Cards 2021"
+theme = "tale-hugo-master"
